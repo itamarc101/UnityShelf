@@ -20,7 +20,7 @@
 
 # Instructions for running the project locally
 - To run it on Desktop browser.
-1. Navigate to the Build folder
+1.  Navigate to BuildShelf folder
 2.  Open PowerShell window
 3.  Type: py -m http.server
 4.  Navigate to any browser desired
